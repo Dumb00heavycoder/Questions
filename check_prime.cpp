@@ -1,4 +1,5 @@
 //This question is given on geeks for geeks
+//Q= Create a program to check whether a number is prime or not.
 #include <iostream>
 using namespace std; 
 

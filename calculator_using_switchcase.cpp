@@ -1,5 +1,6 @@
 //This problem is taken from programiz.com 
 //from examples in section of looops and structures
+//Q= Create a calculator using switchcase.
 #include <iostream>
 using namespace std;
 
