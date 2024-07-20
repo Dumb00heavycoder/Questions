@@ -1,3 +1,4 @@
+//Q- Make a right angle Triangle.
 #include <iostream>
 using namespace std; 
 
